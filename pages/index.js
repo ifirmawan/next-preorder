@@ -26,7 +26,7 @@ HomePage.getInitialProps = () => {
       trending: {
         section: 'HOT PREORDER',
         title: 'Action Figure Demon Slayer  Will Release at 1st March 2021',
-        caption: 'Demon Slayer: Kimetsu no Yaiba (Japanese: 鬼滅の刃, Hepburn: Kimetsu no Yaiba, lit. &quote;Blade of Demon Destruction&quote;[4]) is a Japanese manga series written and illustrated by Koyoharu Gotouge.'
+        caption: 'Demon Slayer: Kimetsu no Yaiba (Japanese: 鬼滅の刃, Hepburn: Kimetsu no Yaiba, lit. &quotBlade of Demon Destruction&quot) is a Japanese manga series written and illustrated by Koyoharu Gotouge.'
       }
     }
   }
