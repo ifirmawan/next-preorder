@@ -1,0 +1,45 @@
+{
+  "name": "next-preorder",
+  "version": "1.0.0",
+  "description": "Web commerce product preorder build with NextJS",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ifirmawan/next-preorder.git"
+  },
+  "keywords": [
+    "preorder",
+    "nextjs",
+    "e-commerce"
+  ],
+  "author": "Iwan Firmawan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ifirmawan/next-preorder/issues"
+  },
+  "homepage": "https://github.com/ifirmawan/next-preorder#readme",
+  "dependencies": {
+    "autoprefixer": "^10.2.4",
+    "next": "^10.0.6",
+    "postcss": "^8.2.4",
+    "prop-types": "^15.7.2",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "tailwindcss": "^2.0.2"
+  },
+  "devDependencies": {
+    "eslint": "^7.19.0",
+    "eslint-config-standard": "^16.0.2",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-react": "^7.22.0",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "standardjs": "^1.0.0-alpha"
+  }
+}
